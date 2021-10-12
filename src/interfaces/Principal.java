@@ -8,6 +8,6 @@ public class Principal {
 		//Comentarios añadidos x3
 		//Probando enlace con GITHUB
 	}
-/////Vanessa Fogosa sssssssssssssss
-//Alex atrevido (u.u)/ 
+
+	//CAMBIOS DESPUES DE CORRECCION
 }
